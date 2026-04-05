@@ -4,7 +4,7 @@ A professional portfolio website for Rajveer Kushwaha, Electronics & Communicati
 
 ## 🚀 Live Demo
 
-> Deployed on Vercel: **[your-portfolio.vercel.app](https://your-portfolio.vercel.app)**
+> Deployed on Vercel: **[your-portfolio.vercel.app]([https://rajveer-portfolio-xi.vercel.app/])**
 
 ---
 
